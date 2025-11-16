@@ -19,7 +19,8 @@ Users must verify their email using a Firebase verification link before they can
 - Smooth UI with modern design elements  
 
 **Screenshot:**  
-![Register Screen](https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/CreateEvent.jpeg)
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/createAccont.jpeg" width="300">
+
 
 ---
 
@@ -34,6 +35,8 @@ The main login page for returning users to access their CollabNest account.
 - Dedicated button to switch to Admin Login  
 
 **Screenshot:**  
-![Login Screen](https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg)
+ 
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg" width="300">
+
 
 
