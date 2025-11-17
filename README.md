@@ -104,5 +104,189 @@ It is fully real-time and powered by Firebase Realtime Database.
 <img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat3.jpeg" width="200">
 <img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chatBlueicon.jpeg" width="200">
 
+## 📅 6. Event Calendar & Event Details  
+CollabNest includes a fully interactive event system where students can explore all upcoming campus events in one place.
+
+### **🔸 Event Calendar**
+The calendar screen displays the entire month with **yellow dots** marking dates that have scheduled events.
+
+**Features:**
+- Interactive monthly calendar  
+- Dots highlight dates with events  
+- Tap any highlighted date to view events on that day  
+- Smooth navigation between months  
+- Clean UI for quick scanning of event timelines  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/EventCalendar.jpeg" width="200">
+
+---
+
+### **🔸 Upcoming Events List**
+Below the calendar, users can scroll through all upcoming events.
+
+**Features:**
+- Scrollable list of events  
+- Event name, date, time & venue  
+- Cards with modern design and shadows  
+- Events automatically sorted by nearest date  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/caledarupcoming.jpeg" width="200">
+
+---
+
+### **🔸 Event Details Page**
+When a user clicks on an event, they see a detailed page with everything they need to know.
+
+**Features:**
+- Event poster/banner at the top  
+- Date & time  
+- Venue  
+- Complete event description  
+- Host & participant details  
+- Prize pool, coordinator info  
+- Option to **register** for the event  
+
+**Screenshots:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/viewEvents.jpeg" width="200" style="margin-right:20px;">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/viewevents2.jpeg" width="200">
+
+
+
+
+## 🧑‍🤝‍🧑 7. Register for an Event (Create a Team)
+Students can register for events by creating their own team.  
+This allows hackathons, competitions, and group events to easily manage participants.
+
+### **🔸 Team Registration Flow**
+When a student taps **“Register for this Event”**, a pop-up appears asking them to enter their **Team Name**.
+
+**Features:**
+- Create a custom **Team Name**
+- Smooth dialog pop-up for entering details
+- Once registered, the UI updates to **“Already Registered”**
+- Prevents duplicate registrations
+- Team information stored in Firebase under the specific event
+- Ensures accurate participant count and event capacity management
+
+**Screenshot (Team Name Dialog):**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/register1.jpeg" width="200">
+
+---
+
+### **🔸 After Registration**
+Once the user registers successfully:
+- The button changes to **“Already Registered”**
+- User cannot register again
+- Event organizers can view the registered team
+
+**Screenshot (After Registration UI):**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/register2.jpeg" width="200">
+
+
+
+
+
+
+## 👥 8. Teams & Invitations Management  
+CollabNest allows students to manage their event teams directly from the Home screen.  
+Users can view their teams, respond to invitations, and explore team details.  
+Only the **team leader** has permission to add new members.
+
+---
+
+### 🔸 **Your Teams (Home Screen)**  
+Users can see all the teams they are part of, along with the event names.
+
+**Features:**
+- View all joined teams  
+- Each card displays team name + event name  
+- Tap any team to open detailed team view  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/UserHome.jpeg" width="200">
+
+---
+
+### 🔸 **Team Details (Leader & Members)**  
+All team members can open the Team Details page to see information about the team.  
+However, only the **team leader** gets the option to add new members.
+
+**Common Features (Visible to All Members):**
+- View team name  
+- View event name  
+- Max participants allowed  
+- List of all team members  
+- Leader badge shown next to the team leader  
+- Current team progress (e.g., 1/3, 2/3)
+
+**Leader-Only Features:**
+- “**Add Member**” button  
+- Ability to send invitations to new members  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/ViewTeam.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/addUserinteam.jpeg" width="200">
+
+
+
+
+## 🏠 9. User Home Screen  
+The Home screen gives users a complete overview of all important updates in one place — teams, invitations, and upcoming events.
+
+---
+
+ 
+
+### 🔸 **Invitations (Accept or Decline)**  
+Users receive invitations from team leaders inviting them to join a team.
+
+**Features:**
+- Shows event name and who invited the user  
+- **Accept** to join the team  
+- **Decline** to reject the invitation  
+- Team updates immediately after acceptance  
+- Invitation card disappears after action  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/UserHome.jpeg" width="200">
+
+---
+
+### 🔸 **After Joining a Team**  
+Once the user accepts an invitation:
+- The team is added to **Your Teams** list  
+- A small confirmation card may appear (ex: *“Joined TLE Eliminators for CodeBlue!”*)  
+- User can now open the team and view all members  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/showinvite.jpeg" width="200" style="margin-right:20px;">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/viewteams.jpeg" width="200">
+
+---
+
+### 🔸 **Upcoming Events (Home Screen)**  
+At the bottom of the Home screen, users can browse all upcoming events.
+
+**Features:**
+- Event poster with modern UI  
+- Event name, date, time, venue  
+- **View Details** button  
+- Scrollable event list  
+
+**Screenshots:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/Homepage_upcomingevents.jpeg" width="200" style="margin-right:20px;">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/homepageupcomingevents2.jpeg" width="200">
+
+---
+
+### Summary  
+The Home screen ensures users can:
+- Quickly see their teams  
+- Respond to invitations  
+- Join new teams  
+- Access upcoming event information  
+All in one clean, central dashboard.
 
 
