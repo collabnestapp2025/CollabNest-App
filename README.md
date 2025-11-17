@@ -51,9 +51,58 @@ Students can showcase their skills, projects, and achievements, making it easier
 - Upload **Resume (PDF)**  
 - Add **LinkedIn link**  
 - Add **LeetCode profile link**  
+
+
 - All data is synced with Firebase for real-time updates  
 
 **Screenshot:**  
 <img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/editProfile.jpeg" width="300">
 <img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/ediprofile2.jpeg" width="300">
+
+
+
+
+## 🔍 4. Search Users & View Profile Details  
+This feature allows students to explore the entire CollabNest community and find the right people for project collaborations, hackathons, or study groups.
+
+**Features:**
+- Search users by **name**
+- View full **profile details** of any student  
+- Profile includes:
+  - Profile picture (DP)  
+  - Skills  
+  - Projects  
+  - GitHub link  
+  - LinkedIn link  
+  - LeetCode link  
+  - Resume (PDF)  
+  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/serachUsers.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userProfile.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userprofie2.jpeg" width="300">
+
+
+
+## 💬 5. Chat System  
+The chat feature allows students to communicate instantly with other users inside the app.  
+It is fully real-time and powered by Firebase Realtime Database.
+
+**Features:**
+- One-on-one real-time messaging  
+- Messages appear instantly without refresh  
+- Users receive **notifications** when they get a new message  
+- Clean and simple chat UI  
+- Shows sender/receiver message bubbles  
+- Automatically scrolls to the latest message  
+- Sends messages even if the user is on another screen  
+
+**Screenshot:**  
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat2.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat3.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chatBlueicon.jpeg" width="300">
+
+
 
