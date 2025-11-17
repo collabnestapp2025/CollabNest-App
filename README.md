@@ -19,7 +19,7 @@ Users must verify their email using a Firebase verification link before they can
 - Smooth UI with modern design elements  
 
 **Screenshot:**  
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/createAccont.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/createAccont.jpeg" width="200">
 
 
 ---
@@ -35,8 +35,8 @@ The main login page for returning users to access their CollabNest account.
 - Dedicated button to switch to Admin Login  
 
 **Screenshot:**  
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg" width="300" style="margin-right:20px;">
-  <img src="https://github.com/collabnestapp2025/CollabNest-App/blob/main/screenshots/firstuser.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userLogin.jpeg" width="200" style="margin-right:20px;">
+  <img src="https://github.com/collabnestapp2025/CollabNest-App/blob/main/screenshots/firstuser.jpeg" width="200">
 </p>
 
 ## 📝 3. Edit Profile Screen  
@@ -56,8 +56,8 @@ Students can showcase their skills, projects, and achievements, making it easier
 - All data is synced with Firebase for real-time updates  
 
 **Screenshot:**  
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/editProfile.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/ediprofile2.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/editProfile.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/ediprofile2.jpeg" width="200">
 
 
 
@@ -79,9 +79,9 @@ This feature allows students to explore the entire CollabNest community and find
   
 
 **Screenshot:**  
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/serachUsers.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userProfile.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userprofie2.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/serachUsers.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userProfile.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/userprofie2.jpeg" width="200">
 
 
 
@@ -99,10 +99,10 @@ It is fully real-time and powered by Firebase Realtime Database.
 - Sends messages even if the user is on another screen  
 
 **Screenshot:**  
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat2.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat3.jpeg" width="300">
-<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chatBlueicon.jpeg" width="300">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat2.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chat3.jpeg" width="200">
+<img src="https://github.com/Patil-Kalpak/CollabNest-App/blob/main/screenshots/chatBlueicon.jpeg" width="200">
 
 
 
